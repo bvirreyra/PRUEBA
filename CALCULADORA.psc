@@ -99,7 +99,6 @@ SubProceso llenarMatriz_Z2(matriz)
 	para i=0 Hasta 2 Hacer
 		para j=0 Hasta 2 Hacer
 			matriz(2,i,j)=matriz(0,i,j)*matriz(1,i,j)
-			//cont=cont+1
 		FinPara
 	FinPara
 FinSubProceso
