@@ -54,7 +54,7 @@ Algoritmo sin_titulo
 			FinPara
 			Escribir ""
 		FinPara
-		escribir ""
+		escribir "AAAAAAAAA"
     FinPara
 	
 Escribir "varA","[ ",varA," ]"
